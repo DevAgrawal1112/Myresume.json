@@ -1,4 +1,3 @@
-# Myresume.json
 {
 	"basics": {
 		"name": "Dev Agrawal",
@@ -52,6 +51,7 @@
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton","Cricket"]
+		"keywords": ["Chess", "Badminton", "Cricket"]
 	}],
-  }
+	"references": []
+}
